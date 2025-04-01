@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "22.14.0"
+  },
   "name": "admin",
   "private": true,
   "version": "0.0.0",
